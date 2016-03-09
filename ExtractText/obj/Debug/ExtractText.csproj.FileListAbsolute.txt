@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\ExtractText\ExtractText\bin\Debug\ExtractText.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\ExtractText\ExtractText\bin\Debug\ExtractText.exe
+c:\users\asus\documents\visual studio 2013\Projects\ExtractText\ExtractText\bin\Debug\ExtractText.pdb
+c:\users\asus\documents\visual studio 2013\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.exe
+c:\users\asus\documents\visual studio 2013\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.pdb
+c:\users\asus\documents\visual studio 2013\Projects\ExtractText\ExtractText\obj\Debug\ExtractText.csprojResolveAssemblyReference.cache
